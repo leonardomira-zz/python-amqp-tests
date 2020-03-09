@@ -1,1 +1,1 @@
-# pythom-amqp-tests
+# python-amqp-tests
